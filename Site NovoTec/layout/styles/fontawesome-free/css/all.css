@@ -1380,20 +1380,9 @@
     content: "\f4b9"
 }
 
-.fa-door-closed:before {
-    content: "\f52a"
-}
-
-.fa-door-open:before {
-    content: "\f52b"
-}
 
 .fa-dot-circle:before {
     content: "\f192"
-}
-
-.fa-dove:before {
-    content: "\f4ba"
 }
 
 .fa-download:before {
@@ -1774,10 +1763,6 @@
 
 .fa-flushed:before {
     content: "\f579"
-}
-
-.fa-fly:before {
-    content: "\f417"
 }
 
 .fa-folder:before {
@@ -2672,14 +2657,6 @@
     content: "\f5a0"
 }
 
-.fa-map-marker:before {
-    content: "\f041"
-}
-
-.fa-map-marker-alt:before {
-    content: "\f3c5"
-}
-
 .fa-map-pin:before {
     content: "\f276"
 }
@@ -2688,9 +2665,7 @@
     content: "\f277"
 }
 
-.fa-marker:before {
-    content: "\f5a1"
-}
+
 
 .fa-mars:before {
     content: "\f222"
@@ -3390,10 +3365,6 @@
 
 .fa-retweet:before {
     content: "\f079"
-}
-
-.fa-ribbon:before {
-    content: "\f4d6"
 }
 
 .fa-road:before {
@@ -4715,3 +4686,10 @@
 .fas {
     font-weight: 900
 }
+
+.passar :hover {
+
+color: rgb(0, 204, 255);
+
+}
+
